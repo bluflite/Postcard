@@ -13,6 +13,8 @@
 		CEEB20461A3B9BA7009CED99 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEEB20451A3B9BA7009CED99 /* Images.xcassets */; };
 		CEEB20491A3B9BA7009CED99 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEEB20471A3B9BA7009CED99 /* LaunchScreen.xib */; };
 		CEEB20551A3B9BA7009CED99 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEB20541A3B9BA7009CED99 /* PostcardTests.swift */; };
+		CEEB205F1A3BA14C009CED99 /* IMG_0502.JPG in Resources */ = {isa = PBXBuildFile; fileRef = CEEB205E1A3BA14C009CED99 /* IMG_0502.JPG */; };
+		CEEB20611A3BA3E5009CED99 /* 20071110uspsguamstamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CEEB20601A3BA3E5009CED99 /* 20071110uspsguamstamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		CEEB204E1A3B9BA7009CED99 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEEB20531A3B9BA7009CED99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CEEB20541A3B9BA7009CED99 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		CEEB205E1A3BA14C009CED99 /* IMG_0502.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0502.JPG; sourceTree = "<group>"; };
+		CEEB20601A3BA3E5009CED99 /* 20071110uspsguamstamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20071110uspsguamstamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		CEEB203C1A3B9BA7009CED99 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CEEB205E1A3BA14C009CED99 /* IMG_0502.JPG */,
+				CEEB20601A3BA3E5009CED99 /* 20071110uspsguamstamp.jpg */,
 				CEEB203D1A3B9BA7009CED99 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,7 +199,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				CEEB20441A3B9BA7009CED99 /* Main.storyboard in Resources */,
+				CEEB20611A3BA3E5009CED99 /* 20071110uspsguamstamp.jpg in Resources */,
 				CEEB20491A3B9BA7009CED99 /* LaunchScreen.xib in Resources */,
+				CEEB205F1A3BA14C009CED99 /* IMG_0502.JPG in Resources */,
 				CEEB20461A3B9BA7009CED99 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
